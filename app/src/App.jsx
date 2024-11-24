@@ -9,7 +9,7 @@ import { Home } from './pages/Home'
 import { Logout } from './pages/Logout'
 import { Signin } from './pages/Signin'
 import { BookDetail } from './pages/BookDetail';
-import { AddBook } from './pages/admin/AddBook'
+import { AddBook } from './pages/admin/AddBook.jsx'
 //firebase stuff
 import { firebaseConfig } from './config/Config'
 import { initializeApp } from "firebase/app"
